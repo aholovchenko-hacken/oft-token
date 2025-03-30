@@ -1,0 +1,1 @@
+# stHAI omnichain fungible token.
